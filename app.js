@@ -16,6 +16,7 @@ app.use(cors({
   origin: ["*"]
 }));
 
+
 // const privateKey = fs.readFileSync('C:/xampp/apache/ssl/private.key', 'utf8');
 // const certificate = fs.readFileSync('C:/xampp/apache/ssl/certificate.crt', 'utf8');
 // const ca = fs.readFileSync('C:/xampp/apache/ssl/ca_bundle.crt', 'utf8'); // หรือจะใช้ CA bundle ของคุณ
